@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppClassUnit7">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MyAdapter2"></activity>
+        <activity android:name=".MyAdapter" />
+        <activity
+            android:name=".MainActivity"
+            android:label="XXXXX-第七章清單列表練習">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
